@@ -1,3 +1,0 @@
-test!!
-append statement.
-test string 2.
